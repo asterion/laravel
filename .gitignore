@@ -22,3 +22,4 @@
 /app/.phpactor.json
 /app/auth.json
 /app/data
+/mailer
