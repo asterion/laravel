@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=php:8.1-fpm
+ARG BASE_IMAGE=php:8.2-fpm
 
 # Usar la imagen base de PHP 8.1 con FPM
 FROM ${BASE_IMAGE}

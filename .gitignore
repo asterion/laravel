@@ -10,11 +10,11 @@
 /app/public_html/hot
 /app/storage/*.key
 /app/.env
+/app/.env.*
 /app/Homestead.yaml
 /app/Homestead.json
 /app/.vagrant
 /app/.phpunit.result.cache
-/app/
 /app/public/build
 /app/storage/pail
 /app/.env.backup
